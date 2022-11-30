@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669796185 source:c:\projets\c++\concept poo\pooencpp\main.cpp
+	<iostream>
+	"Television.h"
+
+1669795895 c:\projets\c++\concept poo\pooencpp\television.h
+	<string>
+
